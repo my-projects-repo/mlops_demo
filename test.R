@@ -1,1 +1,1 @@
-print("This project will implement anomaly detection algorithms.")
+print("This project will implement anomaly detection algorithms!")
