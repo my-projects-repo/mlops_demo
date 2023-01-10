@@ -1,1 +1,1 @@
-print("hello world")
+print("This project will implement anomaly detection algorithms!")
